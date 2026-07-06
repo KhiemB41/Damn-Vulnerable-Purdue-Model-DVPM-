@@ -1,4 +1,4 @@
-# ⚡Damn-Vulnerable-Purdue-Model-DVPM.
+# ⚡Damn Vulnerable Purdue Model - DVPM.
 
 
 **A Complete Damn Vulnerable ICS/SCADA Security Testing Environment**
