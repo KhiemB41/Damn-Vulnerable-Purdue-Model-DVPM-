@@ -44,7 +44,7 @@ THIS LAB IS INTENTIONALLY INSECURE. PLEASE BE CAREFUL!!!
 
 ## 🎯 Overview
 
-The **Damn-Vulnerable-Purdue-Model (DVPM)** is a comprehensive, intentionally vulnerable industrial control system (ICS) and SCADA security testing environment. Built on the Purdue Enterprise Reference Architecture, it provides a realistic platform for:
+The **Damn Vulnerable Purdue Model (DVPM)** is a comprehensive, intentionally vulnerable industrial control system (ICS) and SCADA security testing environment. Built on the Purdue Enterprise Reference Architecture, it provides a realistic platform for:
 
 - 🛡️ Security research and testing
 - 🎯 Penetration testing practice
