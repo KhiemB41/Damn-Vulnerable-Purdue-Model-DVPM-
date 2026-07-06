@@ -71,16 +71,20 @@ The **Damn-Vulnerable-Purdue-Model (DVPM)** is a comprehensive, intentionally vu
 ### Purdue Model Implementation
 
 Level 4/5: Enterprise Zone: Kali Linux VM (Penetration testing)
+
             
 Level 3.5: IT/OT DMZ:
             - pfSense Firewall
             - Wazuh SIEM
             
+            
 Level 3: Operations Management:
             - Windows Engineer VM
             - Historian (InfluxDB/Grafana)
             
+            
 Level 2: Supervisory Control:FUXA SCADA/HMI (Docker)
+
             
 Level 1: Basic Control:
             - PLC1 - OpenPLC (Water Pump)
