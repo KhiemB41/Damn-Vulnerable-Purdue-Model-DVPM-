@@ -58,7 +58,7 @@ The **Damn Vulnerable Purdue Model (DVPM)** is a comprehensive, intentionally vu
 | Feature | Description |
 |---------|-------------|
 | **Purdue Model** | Full implementation of Levels 0-5 |
-| **Hybrid Architecture** | Proxmox VMs + Docker containers |
+| **Hybrid Architecture** | Proxmox VMs/Virtualbox + Docker containers |
 | **Multiple Protocols** | Modbus, DNP3, OPC UA, Profinet |
 | **Pre-built Vulnerabilities** | Default creds, no auth, buffer overflows |
 | **Complete Monitoring** | Wazuh SIEM + Grafana dashboards |
