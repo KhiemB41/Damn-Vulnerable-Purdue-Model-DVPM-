@@ -14,10 +14,15 @@
 THIS LAB IS INTENTIONALLY INSECURE. PLEASE be CAREFUL!!!
 
 🚫 DO NOT deploy on any production network
+
 🚫 DO NOT connect to the internet
+
 🚫 For education and authorized security testing ONLY
+
 ✅ Always operate in isolated environment
+
 ✅ Use snapshots before destructive tests
+
 ✅ Reset lab after each session
 
 
