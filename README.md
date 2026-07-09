@@ -96,3 +96,17 @@ Level 0: Physical Process: Field Device Simulator
 
 ### Network Diagram
 
+
+### Quick Start
+
+# Hardware Requirements
+CPU: 4+ cores 
+RAM: 32+ GB 
+Storage: 150+ GB SSD
+Network: 2+ NIC 
+
+# Software Requirements
+Proxmox VE 8.x
+pfSense 2.7.x
+Ubuntu 26.04 LTS
+Docker 24.x
